@@ -1,0 +1,20 @@
+2025-02-05 11:54:05,503 - INFO - starting measurement test
+2025-02-05 11:54:05,608 - INFO - measurement captured from ultrasonic sensor: Distance: 43 cm
+2025-02-05 11:54:07,850 - INFO - starting fan test
+2025-02-05 11:54:08,456 - INFO - fan turned on : Fan is ON.
+2025-02-05 11:54:14,076 - INFO - fan turned off : Fan is OFF.
+2025-02-05 11:54:15,805 - INFO - starting fan test
+2025-02-05 11:54:16,416 - INFO - fan turned on : Fan is ON.
+2025-02-05 11:54:22,027 - INFO - fan turned off : Fan is OFF.
+2025-02-05 11:54:23,967 - INFO - starting measurement test
+2025-02-05 11:54:24,073 - INFO - measurement captured from ultrasonic sensor: Distance: 185 cm
+2025-02-05 11:54:30,764 - INFO - starting fan test
+2025-02-05 11:54:31,369 - INFO - fan turned on : Fan is ON.
+2025-02-05 11:54:36,983 - INFO - fan turned off : Fan is OFF.
+2025-02-05 11:54:39,287 - INFO - starting fan test
+2025-02-05 11:54:39,893 - INFO - fan turned on : Fan is ON.
+2025-02-05 11:54:45,509 - INFO - fan turned off : Fan is OFF.
+2025-02-05 11:54:56,672 - INFO - starting measurement test
+2025-02-05 11:54:56,780 - ERROR - distance out of range: Distance: 1191 cm
+2025-02-05 11:55:00,108 - INFO - starting measurement test
+2025-02-05 11:55:00,214 - ERROR - distance out of range: Distance: 1191 cm
